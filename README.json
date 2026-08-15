@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T20:41:00Z",
+            "last_commit": "2026-08-15T07:41:45Z",
             "owner": "MinecraftForge",
             "repo": "MinecraftForge",
-            "stars": 7739
+            "stars": 7736
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-12T12:28:41Z",
             "owner": "xfl03",
             "repo": "MCCustomSkinLoader",
-            "stars": 608
+            "stars": 606
           }
         },
         {
@@ -151,10 +151,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T19:50:21Z",
+            "last_commit": "2026-08-14T14:04:00Z",
             "owner": "ViaVersion",
             "repo": "ViaVersion",
-            "stars": 1607
+            "stars": 1608
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-08-13T19:51:11Z",
             "owner": "PlayPro",
             "repo": "CoreProtect",
-            "stars": 969
+            "stars": 970
           }
         },
         {
@@ -246,10 +246,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-14T01:52:05Z",
+            "last_commit": "2026-08-14T17:41:45Z",
             "owner": "itzg",
             "repo": "docker-minecraft-server",
-            "stars": 14133
+            "stars": 14138
           }
         },
         {
@@ -260,7 +260,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T19:53:14Z",
+            "last_commit": "2026-08-14T16:45:22Z",
             "owner": "minekube",
             "repo": "gate",
             "stars": 1070
@@ -311,7 +311,7 @@
             "last_commit": "2026-08-11T09:03:47Z",
             "owner": "PrismarineJS",
             "repo": "node-minecraft-protocol",
-            "stars": 1415
+            "stars": 1414
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2026-08-11T13:14:55Z",
             "owner": "GeyserMC",
             "repo": "MCProtocolLib",
-            "stars": 908
+            "stars": 907
           }
         },
         {
@@ -432,10 +432,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T13:52:54Z",
+            "last_commit": "2026-08-14T13:55:49Z",
             "owner": "HMCL-dev",
             "repo": "HMCL",
-            "stars": 9848
+            "stars": 9850
           }
         },
         {
@@ -449,7 +449,7 @@
             "last_commit": "2026-07-28T22:08:09Z",
             "owner": "MultiMC",
             "repo": "Launcher",
-            "stars": 4661
+            "stars": 4659
           }
         },
         {
@@ -460,10 +460,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T04:25:55Z",
+            "last_commit": "2026-08-15T08:01:36Z",
             "owner": "Voxelum",
             "repo": "x-minecraft-launcher",
-            "stars": 1547
+            "stars": 1549
           }
         },
         {
@@ -474,7 +474,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T13:16:38Z",
+            "last_commit": "2026-08-14T10:50:56Z",
             "owner": "d3ara1n",
             "repo": "Polymerium",
             "stars": 112
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:38:35.218Z",
+    "last_updated": "2026-08-15T08:58:08.356Z",
     "original_repository": "bs-community/awesome-minecraft",
     "original_repository_sha": "2d95490898d83bf9cf0e5f3bc083ae02a276995b",
     "enhanced_repository": "enhansome/enhansome-minecraft",
