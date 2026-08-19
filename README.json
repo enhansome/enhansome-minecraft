@@ -176,7 +176,7 @@
             "last_commit": "2026-08-18T19:46:57Z",
             "owner": "PlayPro",
             "repo": "CoreProtect",
-            "stars": 975
+            "stars": 976
           }
         },
         {
@@ -259,7 +259,7 @@
                 "last_commit": "2026-08-19T08:33:28Z",
                 "owner": "itzg",
                 "repo": "docker-minecraft-server",
-                "stars": 14169
+                "stars": 14170
               }
             },
             {
@@ -457,10 +457,10 @@
                 "archived": false,
                 "id": 37844001,
                 "language": "Java",
-                "last_commit": "2026-08-17T12:33:58Z",
+                "last_commit": "2026-08-19T12:29:12Z",
                 "owner": "HMCL-dev",
                 "repo": "HMCL",
-                "stars": 9869
+                "stars": 9870
               }
             },
             {
@@ -490,7 +490,7 @@
                 "last_commit": "2026-08-18T16:03:13Z",
                 "owner": "Voxelum",
                 "repo": "x-minecraft-launcher",
-                "stars": 1564
+                "stars": 1565
               }
             },
             {
@@ -554,8 +554,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:07:06.372Z",
+    "last_updated": "2026-08-19T12:40:18.721Z",
     "original_repository": "bs-community/awesome-minecraft",
+    "original_repository_id": 135013128,
     "original_repository_sha": "2d95490898d83bf9cf0e5f3bc083ae02a276995b",
     "enhanced_repository": "enhansome/enhansome-minecraft",
     "enhanced_repository_description": null,
