@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Websites"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3301400,
             "language": "Java",
-            "last_commit": "2026-08-15T20:34:02Z",
+            "last_commit": "2026-08-18T19:34:10Z",
             "owner": "MinecraftForge",
             "repo": "MinecraftForge",
-            "stars": 7739
+            "stars": 7741
           }
         },
         {
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40023055,
             "language": "Java",
             "last_commit": "2016-05-30T20:04:23Z",
             "owner": "FyberOptic",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 103042886,
             "language": "Java",
             "last_commit": "2019-01-02T21:48:25Z",
             "owner": "RopeMC",
@@ -54,94 +52,102 @@
       "title": "Mod Loaders"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Custom Skin Loader",
+              "description": "Custom Skin Loader for Minecraft.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18766989,
+                "language": "Java",
+                "last_commit": "2026-08-12T12:28:41Z",
+                "owner": "xfl03",
+                "repo": "MCCustomSkinLoader",
+                "stars": 606
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Universal Skin Mod",
+              "description": "A Minecraft Forge Mod allows players load custom skin & cape textures.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 12403074,
+                "language": "Java",
+                "last_commit": "2016-06-06T10:19:37Z",
+                "owner": "RecursiveG",
+                "repo": "UniSkinMod",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Skins And Capes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Applied Energistics 2",
+              "description": "A Minecraft Mod about Matter, Energy and using them to conquer the world. Mainly focused on item storage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24395109,
+                "language": "Java",
+                "last_commit": "2026-08-17T01:05:24Z",
+                "owner": "AppliedEnergistics",
+                "repo": "Applied-Energistics-2",
+                "stars": 1773
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Botania",
+              "description": "Botania is a tech mod in essence. The theme is natural magic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15870488,
+                "language": "Java",
+                "last_commit": "2026-08-18T00:55:20Z",
+                "owner": "VazkiiMods",
+                "repo": "Botania",
+                "stars": 1467
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Railcraft",
+              "description": "Greatly expand and improve the Minecart system in Minecraft.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7177096,
+                "language": "Java",
+                "last_commit": "2023-09-20T04:01:42Z",
+                "owner": "Railcraft",
+                "repo": "Railcraft",
+                "stars": 524
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Technology"
+        }
+      ],
       "title": "Mods"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Custom Skin Loader",
-          "description": "Custom Skin Loader for Minecraft.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-12T12:28:41Z",
-            "owner": "xfl03",
-            "repo": "MCCustomSkinLoader",
-            "stars": 606
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Universal Skin Mod",
-          "description": "A Minecraft Forge Mod allows players load custom skin & cape textures.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2016-06-06T10:19:37Z",
-            "owner": "RecursiveG",
-            "repo": "UniSkinMod",
-            "stars": 26
-          }
-        }
-      ],
-      "title": "Skins And Capes"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Applied Energistics 2",
-          "description": "A Minecraft Mod about Matter, Energy and using them to conquer the world. Mainly focused on item storage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T01:05:24Z",
-            "owner": "AppliedEnergistics",
-            "repo": "Applied-Energistics-2",
-            "stars": 1773
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Botania",
-          "description": "Botania is a tech mod in essence. The theme is natural magic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T00:55:20Z",
-            "owner": "VazkiiMods",
-            "repo": "Botania",
-            "stars": 1467
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Railcraft",
-          "description": "Greatly expand and improve the Minecart system in Minecraft.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-09-20T04:01:42Z",
-            "owner": "Railcraft",
-            "repo": "Railcraft",
-            "stars": 524
-          }
-        }
-      ],
-      "title": "Technology"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -150,11 +156,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52748444,
             "language": "Java",
             "last_commit": "2026-08-14T14:04:00Z",
             "owner": "ViaVersion",
             "repo": "ViaVersion",
-            "stars": 1610
+            "stars": 1611
           }
         },
         {
@@ -164,11 +171,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100995928,
             "language": "Java",
-            "last_commit": "2026-08-17T19:33:48Z",
+            "last_commit": "2026-08-18T19:46:57Z",
             "owner": "PlayPro",
             "repo": "CoreProtect",
-            "stars": 974
+            "stars": 975
           }
         },
         {
@@ -178,6 +186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1090553,
             "language": "Java",
             "last_commit": "2026-08-11T11:21:45Z",
             "owner": "EngineHub",
@@ -192,8 +201,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1017227,
             "language": "Java",
-            "last_commit": "2026-08-16T01:41:27Z",
+            "last_commit": "2026-08-19T08:50:42Z",
             "owner": "EngineHub",
             "repo": "CraftBook",
             "stars": 320
@@ -206,6 +216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59689707,
             "language": "Java",
             "last_commit": "2025-01-13T13:30:19Z",
             "owner": "Rammelkast",
@@ -220,6 +231,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 74204494,
             "language": "Java",
             "last_commit": "2022-05-29T16:15:34Z",
             "owner": "benjaminforras",
@@ -231,260 +243,281 @@
       "title": "Server Plugins"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Docker-Minecraft",
+              "description": "A self-hosted Minecraft server using Docker containers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19897878,
+                "language": "Shell",
+                "last_commit": "2026-08-19T08:33:28Z",
+                "owner": "itzg",
+                "repo": "docker-minecraft-server",
+                "stars": 14169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gate",
+              "description": "A high performance & paralleled Minecraft proxy written in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284546536,
+                "language": "Go",
+                "last_commit": "2026-08-17T09:27:57Z",
+                "owner": "minekube",
+                "repo": "gate",
+                "stars": 1072
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Legendary-Java-Minecraft-Geyser-Floodgate",
+              "description": "PaperMC server with out of the box Geyser and Floodgate support using docker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 522033620,
+                "language": "Shell",
+                "last_commit": "2026-05-03T17:43:25Z",
+                "owner": "TheRemote",
+                "repo": "Legendary-Java-Minecraft-Geyser-Floodgate",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "minecraft-docker",
+              "description": "Fork of Legendary-Java-Minecraft-Geyser-Floodgate that embeds a discord bot for easy starting and stopping of the server.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 648395502,
+                "language": "Go",
+                "last_commit": "2023-12-14T21:38:57Z",
+                "owner": "tywil04",
+                "repo": "discord-bot-controlled-minecraft-server",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Servers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "node-minecraft-protocol",
+              "description": "A NodeJS library to parse and serialize minecraft packets, plus authentication and encryption.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7394347,
+                "language": "JavaScript",
+                "last_commit": "2026-08-16T00:19:37Z",
+                "owner": "PrismarineJS",
+                "repo": "node-minecraft-protocol",
+                "stars": 1415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MCProtocolLib",
+              "description": "A simple library for communicating with a Minecraft client/server, written in Java.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5393808,
+                "language": "Java",
+                "last_commit": "2026-08-11T13:14:55Z",
+                "owner": "GeyserMC",
+                "repo": "MCProtocolLib",
+                "stars": 909
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CraftLib",
+              "description": "Complete Kotlin / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269539676,
+                "language": "Kotlin",
+                "last_commit": "2022-12-29T10:11:12Z",
+                "owner": "Zerite",
+                "repo": "CraftLib",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-mcproto",
+              "description": "Minecraft server communication protocol implementation written in Go that allows you to program your own bots.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 372461375,
+                "language": "Go",
+                "last_commit": "2022-06-05T08:36:07Z",
+                "owner": "BRA1L0R",
+                "repo": "go-mcproto",
+                "stars": 50
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Amidst",
+              "description": "Display an overview of a Minecraft world, without actually creating it.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48816368,
+                "language": "Java",
+                "last_commit": "2025-12-01T23:25:58Z",
+                "owner": "toolbox4minecraft",
+                "repo": "amidst",
+                "stars": 2268
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Amulet",
+              "description": "Map viewer/editor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222710374,
+                "language": "Python",
+                "last_commit": "2026-08-11T15:19:19Z",
+                "owner": "Amulet-Team",
+                "repo": "Amulet-Map-Editor",
+                "stars": 2224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NBTEditor",
+              "description": "Edit NBT from .dat files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121060025,
+                "language": "C++",
+                "last_commit": "2024-05-31T20:11:57Z",
+                "owner": "Howaner",
+                "repo": "NBTEditor",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Minecraft Command Helper",
+              "description": "A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 51099505,
+                "language": "C#",
+                "last_commit": "2022-06-22T18:13:35Z",
+                "owner": "IceLitty",
+                "repo": "Minecraft-Command-Helper",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HMCL",
+              "description": "A powered Minecraft launcher that supports a lot of features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37844001,
+                "language": "Java",
+                "last_commit": "2026-08-17T12:33:58Z",
+                "owner": "HMCL-dev",
+                "repo": "HMCL",
+                "stars": 9869
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MultiMC",
+              "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12682212,
+                "language": "C++",
+                "last_commit": "2026-07-28T22:08:09Z",
+                "owner": "MultiMC",
+                "repo": "Launcher",
+                "stars": 4663
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XMCL",
+              "description": "X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95660324,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T16:03:13Z",
+                "owner": "Voxelum",
+                "repo": "x-minecraft-launcher",
+                "stars": 1564
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Polymerium",
+              "description": "🐿️ A next-generation Minecraft instance manager that thinks differently about game management.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 587816508,
+                "language": "C#",
+                "last_commit": "2026-08-19T05:41:48Z",
+                "owner": "d3ara1n",
+                "repo": "Polymerium",
+                "stars": 112
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Launchers"
+        }
+      ],
       "title": "Softwares"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Docker-Minecraft",
-          "description": "A self-hosted Minecraft server using Docker containers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-16T21:34:25Z",
-            "owner": "itzg",
-            "repo": "docker-minecraft-server",
-            "stars": 14163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gate",
-          "description": "A high performance & paralleled Minecraft proxy written in Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T09:27:57Z",
-            "owner": "minekube",
-            "repo": "gate",
-            "stars": 1071
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Legendary-Java-Minecraft-Geyser-Floodgate",
-          "description": "PaperMC server with out of the box Geyser and Floodgate support using docker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-05-03T17:43:25Z",
-            "owner": "TheRemote",
-            "repo": "Legendary-Java-Minecraft-Geyser-Floodgate",
-            "stars": 222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "minecraft-docker",
-          "description": "Fork of Legendary-Java-Minecraft-Geyser-Floodgate that embeds a discord bot for easy starting and stopping of the server.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2023-12-14T21:38:57Z",
-            "owner": "tywil04",
-            "repo": "discord-bot-controlled-minecraft-server",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Servers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "node-minecraft-protocol",
-          "description": "A NodeJS library to parse and serialize minecraft packets, plus authentication and encryption.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-16T00:19:37Z",
-            "owner": "PrismarineJS",
-            "repo": "node-minecraft-protocol",
-            "stars": 1415
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MCProtocolLib",
-          "description": "A simple library for communicating with a Minecraft client/server, written in Java.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-11T13:14:55Z",
-            "owner": "GeyserMC",
-            "repo": "MCProtocolLib",
-            "stars": 908
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CraftLib",
-          "description": "Complete Kotlin / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-12-29T10:11:12Z",
-            "owner": "Zerite",
-            "repo": "CraftLib",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-mcproto",
-          "description": "Minecraft server communication protocol implementation written in Go that allows you to program your own bots.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2022-06-05T08:36:07Z",
-            "owner": "BRA1L0R",
-            "repo": "go-mcproto",
-            "stars": 50
-          }
-        }
-      ],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Amidst",
-          "description": "Display an overview of a Minecraft world, without actually creating it.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-12-01T23:25:58Z",
-            "owner": "toolbox4minecraft",
-            "repo": "amidst",
-            "stars": 2267
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Amulet",
-          "description": "Map viewer/editor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T15:19:19Z",
-            "owner": "Amulet-Team",
-            "repo": "Amulet-Map-Editor",
-            "stars": 2223
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NBTEditor",
-          "description": "Edit NBT from .dat files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-05-31T20:11:57Z",
-            "owner": "Howaner",
-            "repo": "NBTEditor",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Minecraft Command Helper",
-          "description": "A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2022-06-22T18:13:35Z",
-            "owner": "IceLitty",
-            "repo": "Minecraft-Command-Helper",
-            "stars": 28
-          }
-        }
-      ],
-      "title": "Utilities"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "HMCL",
-          "description": "A powered Minecraft launcher that supports a lot of features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T12:33:58Z",
-            "owner": "HMCL-dev",
-            "repo": "HMCL",
-            "stars": 9865
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MultiMC",
-          "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-28T22:08:09Z",
-            "owner": "MultiMC",
-            "repo": "Launcher",
-            "stars": 4661
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "XMCL",
-          "description": "X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T19:24:53Z",
-            "owner": "Voxelum",
-            "repo": "x-minecraft-launcher",
-            "stars": 1562
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Polymerium",
-          "description": "🐿️ A next-generation Minecraft instance manager that thinks differently about game management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-16T16:36:13Z",
-            "owner": "d3ara1n",
-            "repo": "Polymerium",
-            "stars": 112
-          }
-        }
-      ],
-      "title": "Launchers"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -493,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23542048,
             "language": "Java",
             "last_commit": "2022-09-11T04:43:21Z",
             "owner": "tterrag1098",
@@ -507,30 +541,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208784594,
             "language": "TypeScript",
             "last_commit": "2025-12-22T12:36:51Z",
             "owner": "EngineHub",
             "repo": "SchematicWebViewer",
             "stars": 77
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Bearded Octo Nemesis",
-          "description": "Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.",
-          "children": []
         }
       ],
       "title": "Development"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:05:52.341Z",
+    "last_updated": "2026-08-19T09:07:06.372Z",
     "original_repository": "bs-community/awesome-minecraft",
     "original_repository_sha": "2d95490898d83bf9cf0e5f3bc083ae02a276995b",
     "enhanced_repository": "enhansome/enhansome-minecraft",
