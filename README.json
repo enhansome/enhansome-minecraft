@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T15:47:20Z",
             "owner": "MinecraftForge",
             "repo": "MinecraftForge",
-            "stars": 7746
+            "stars": 7750
           }
         },
         {
@@ -105,7 +105,7 @@
                 "last_commit": "2026-08-17T01:05:24Z",
                 "owner": "AppliedEnergistics",
                 "repo": "Applied-Energistics-2",
-                "stars": 1777
+                "stars": 1778
               }
             },
             {
@@ -117,10 +117,10 @@
                 "archived": false,
                 "id": 15870488,
                 "language": "Java",
-                "last_commit": "2026-08-20T15:27:26Z",
+                "last_commit": "2026-08-22T08:45:20Z",
                 "owner": "VazkiiMods",
                 "repo": "Botania",
-                "stars": 1467
+                "stars": 1469
               }
             },
             {
@@ -176,7 +176,7 @@
             "last_commit": "2026-08-20T21:58:28Z",
             "owner": "PlayPro",
             "repo": "CoreProtect",
-            "stars": 977
+            "stars": 975
           }
         },
         {
@@ -191,7 +191,7 @@
             "last_commit": "2026-08-11T11:21:45Z",
             "owner": "EngineHub",
             "repo": "WorldGuard",
-            "stars": 937
+            "stars": 936
           }
         },
         {
@@ -259,7 +259,7 @@
                 "last_commit": "2026-08-20T00:41:29Z",
                 "owner": "itzg",
                 "repo": "docker-minecraft-server",
-                "stars": 14180
+                "stars": 14187
               }
             },
             {
@@ -274,7 +274,7 @@
                 "last_commit": "2026-08-17T09:27:57Z",
                 "owner": "minekube",
                 "repo": "gate",
-                "stars": 1073
+                "stars": 1072
               }
             },
             {
@@ -326,7 +326,7 @@
                 "last_commit": "2026-08-16T00:19:37Z",
                 "owner": "PrismarineJS",
                 "repo": "node-minecraft-protocol",
-                "stars": 1415
+                "stars": 1416
               }
             },
             {
@@ -408,7 +408,7 @@
                 "last_commit": "2026-08-11T15:19:19Z",
                 "owner": "Amulet-Team",
                 "repo": "Amulet-Map-Editor",
-                "stars": 2224
+                "stars": 2225
               }
             },
             {
@@ -457,10 +457,10 @@
                 "archived": false,
                 "id": 37844001,
                 "language": "Java",
-                "last_commit": "2026-08-21T03:26:10Z",
+                "last_commit": "2026-08-21T13:42:09Z",
                 "owner": "HMCL-dev",
                 "repo": "HMCL",
-                "stars": 9882
+                "stars": 9890
               }
             },
             {
@@ -475,7 +475,7 @@
                 "last_commit": "2026-07-28T22:08:09Z",
                 "owner": "MultiMC",
                 "repo": "Launcher",
-                "stars": 4664
+                "stars": 4665
               }
             },
             {
@@ -487,10 +487,10 @@
                 "archived": false,
                 "id": 95660324,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T16:59:13Z",
+                "last_commit": "2026-08-21T19:22:19Z",
                 "owner": "Voxelum",
                 "repo": "x-minecraft-launcher",
-                "stars": 1567
+                "stars": 1569
               }
             },
             {
@@ -505,7 +505,7 @@
                 "last_commit": "2026-08-20T08:44:09Z",
                 "owner": "d3ara1n",
                 "repo": "Polymerium",
-                "stars": 112
+                "stars": 113
               }
             }
           ],
@@ -554,7 +554,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:10:31.126Z",
+    "last_updated": "2026-08-22T09:00:21.325Z",
     "original_repository": "bs-community/awesome-minecraft",
     "original_repository_id": 135013128,
     "original_repository_sha": "2d95490898d83bf9cf0e5f3bc083ae02a276995b",
