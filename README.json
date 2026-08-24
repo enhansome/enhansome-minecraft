@@ -58,6 +58,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Sodium (for Fabric)",
+              "description": "A Fabric mod designed to improve frame rates and reduce micro-stutter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237553513,
+                "language": "Java",
+                "last_commit": "2026-08-23T16:56:37Z",
+                "owner": "CaffeineMC",
+                "repo": "sodium",
+                "stars": 5730
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Performance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Custom Skin Loader",
               "description": "Custom Skin Loader for Minecraft.",
               "children": [],
@@ -142,6 +164,72 @@
           "description": null,
           "node_type": "group",
           "title": "Technology"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Applied Energistics 2",
+              "description": "A Minecraft Mod about Matter, Energy and using them to conquer the world.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24395109,
+                "language": "Java",
+                "last_commit": "2026-08-17T01:05:24Z",
+                "owner": "AppliedEnergistics",
+                "repo": "Applied-Energistics-2",
+                "stars": 1779
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Energy"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TNTUtils",
+              "description": "More control over explosions in Minecraft.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30122479,
+                "language": "Java",
+                "last_commit": "2026-08-02T16:34:01Z",
+                "owner": "ljfa-ag",
+                "repo": "TNTUtils",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WorldEdit",
+              "description": "WorldEdit is an open source in-game map editor available for Bukkit, Forge, MinecraftEdu, and many other platforms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 944926,
+                "language": "Java",
+                "last_commit": "2026-08-18T23:55:44Z",
+                "owner": "EngineHub",
+                "repo": "WorldEdit",
+                "stars": 3498
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Building"
         }
       ],
       "title": "Mods"
@@ -161,7 +249,7 @@
             "last_commit": "2026-08-23T13:10:09Z",
             "owner": "ViaVersion",
             "repo": "ViaVersion",
-            "stars": 1613
+            "stars": 1614
           }
         },
         {
@@ -246,6 +334,27 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Blessing Skin Server",
+          "description": "A web application brings your custom skins back in offline Minecraft servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 159007016,
+            "language": "PHP",
+            "last_commit": "2026-03-30T13:42:24Z",
+            "owner": "bs-community",
+            "repo": "blessing-skin-server",
+            "stars": 1042
+          }
+        }
+      ],
+      "title": "Web Applications"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -259,7 +368,7 @@
                 "last_commit": "2026-08-23T14:04:09Z",
                 "owner": "itzg",
                 "repo": "docker-minecraft-server",
-                "stars": 14193
+                "stars": 14194
               }
             },
             {
@@ -326,7 +435,7 @@
                 "last_commit": "2026-08-22T19:58:42Z",
                 "owner": "PrismarineJS",
                 "repo": "node-minecraft-protocol",
-                "stars": 1416
+                "stars": 1417
               }
             },
             {
@@ -338,7 +447,7 @@
                 "archived": false,
                 "id": 5393808,
                 "language": "Java",
-                "last_commit": "2026-08-11T13:14:55Z",
+                "last_commit": "2026-08-24T12:44:20Z",
                 "owner": "GeyserMC",
                 "repo": "MCProtocolLib",
                 "stars": 912
@@ -408,7 +517,7 @@
                 "last_commit": "2026-08-11T15:19:19Z",
                 "owner": "Amulet-Team",
                 "repo": "Amulet-Map-Editor",
-                "stars": 2224
+                "stars": 2225
               }
             },
             {
@@ -460,7 +569,7 @@
                 "last_commit": "2026-08-23T12:17:34Z",
                 "owner": "HMCL-dev",
                 "repo": "HMCL",
-                "stars": 9913
+                "stars": 9915
               }
             },
             {
@@ -490,7 +599,7 @@
                 "last_commit": "2026-08-23T17:14:06Z",
                 "owner": "Voxelum",
                 "repo": "x-minecraft-launcher",
-                "stars": 1579
+                "stars": 1578
               }
             },
             {
@@ -554,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:26:53.552Z",
+    "last_updated": "2026-08-24T14:21:18.524Z",
     "original_repository": "bs-community/awesome-minecraft",
     "original_repository_id": 135013128,
     "original_repository_sha": "2d95490898d83bf9cf0e5f3bc083ae02a276995b",
