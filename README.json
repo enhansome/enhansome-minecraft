@@ -139,10 +139,10 @@
                 "archived": false,
                 "id": 15870488,
                 "language": "Java",
-                "last_commit": "2026-08-24T07:15:06Z",
+                "last_commit": "2026-08-24T15:13:01Z",
                 "owner": "VazkiiMods",
                 "repo": "Botania",
-                "stars": 1469
+                "stars": 1470
               }
             },
             {
@@ -223,7 +223,7 @@
                 "last_commit": "2026-08-18T23:55:44Z",
                 "owner": "EngineHub",
                 "repo": "WorldEdit",
-                "stars": 3498
+                "stars": 3499
               }
             }
           ],
@@ -368,7 +368,7 @@
                 "last_commit": "2026-08-23T14:04:09Z",
                 "owner": "itzg",
                 "repo": "docker-minecraft-server",
-                "stars": 14194
+                "stars": 14196
               }
             },
             {
@@ -380,10 +380,10 @@
                 "archived": false,
                 "id": 284546536,
                 "language": "Go",
-                "last_commit": "2026-08-23T04:00:06Z",
+                "last_commit": "2026-08-24T22:24:31Z",
                 "owner": "minekube",
                 "repo": "gate",
-                "stars": 1072
+                "stars": 1071
               }
             },
             {
@@ -435,7 +435,7 @@
                 "last_commit": "2026-08-22T19:58:42Z",
                 "owner": "PrismarineJS",
                 "repo": "node-minecraft-protocol",
-                "stars": 1417
+                "stars": 1416
               }
             },
             {
@@ -569,7 +569,7 @@
                 "last_commit": "2026-08-23T12:17:34Z",
                 "owner": "HMCL-dev",
                 "repo": "HMCL",
-                "stars": 9915
+                "stars": 9917
               }
             },
             {
@@ -596,10 +596,10 @@
                 "archived": false,
                 "id": 95660324,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T17:14:06Z",
+                "last_commit": "2026-08-24T18:28:36Z",
                 "owner": "Voxelum",
                 "repo": "x-minecraft-launcher",
-                "stars": 1578
+                "stars": 1579
               }
             },
             {
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:21:18.524Z",
+    "last_updated": "2026-08-25T06:15:43.228Z",
     "original_repository": "bs-community/awesome-minecraft",
     "original_repository_id": 135013128,
     "original_repository_sha": "2d95490898d83bf9cf0e5f3bc083ae02a276995b",
