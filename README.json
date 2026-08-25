@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-23T16:56:37Z",
                 "owner": "CaffeineMC",
                 "repo": "sodium",
-                "stars": 5730
+                "stars": 5732
               }
             }
           ],
@@ -124,7 +124,7 @@
                 "archived": false,
                 "id": 24395109,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:05:24Z",
+                "last_commit": "2026-08-25T08:37:41Z",
                 "owner": "AppliedEnergistics",
                 "repo": "Applied-Energistics-2",
                 "stars": 1779
@@ -142,7 +142,7 @@
                 "last_commit": "2026-08-24T15:13:01Z",
                 "owner": "VazkiiMods",
                 "repo": "Botania",
-                "stars": 1470
+                "stars": 1469
               }
             },
             {
@@ -176,7 +176,7 @@
                 "archived": false,
                 "id": 24395109,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:05:24Z",
+                "last_commit": "2026-08-25T08:37:41Z",
                 "owner": "AppliedEnergistics",
                 "repo": "Applied-Energistics-2",
                 "stars": 1779
@@ -368,7 +368,7 @@
                 "last_commit": "2026-08-23T14:04:09Z",
                 "owner": "itzg",
                 "repo": "docker-minecraft-server",
-                "stars": 14196
+                "stars": 14199
               }
             },
             {
@@ -517,7 +517,7 @@
                 "last_commit": "2026-08-11T15:19:19Z",
                 "owner": "Amulet-Team",
                 "repo": "Amulet-Map-Editor",
-                "stars": 2225
+                "stars": 2226
               }
             },
             {
@@ -569,7 +569,7 @@
                 "last_commit": "2026-08-23T12:17:34Z",
                 "owner": "HMCL-dev",
                 "repo": "HMCL",
-                "stars": 9917
+                "stars": 9919
               }
             },
             {
@@ -663,7 +663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:15:43.228Z",
+    "last_updated": "2026-08-25T09:10:34.851Z",
     "original_repository": "bs-community/awesome-minecraft",
     "original_repository_id": 135013128,
     "original_repository_sha": "2d95490898d83bf9cf0e5f3bc083ae02a276995b",

@@ -84,7 +84,7 @@
 
 ### Performance
 
-* [Sodium (for Fabric)](https://github.com/CaffeineMC/sodium-fabric) ⭐ 5,730 | 🐛 155 | 🌐 Java | 📅 2026-08-23 - A Fabric mod designed to improve frame rates and reduce micro-stutter.
+* [Sodium (for Fabric)](https://github.com/CaffeineMC/sodium-fabric) ⭐ 5,732 | 🐛 155 | 🌐 Java | 📅 2026-08-23 - A Fabric mod designed to improve frame rates and reduce micro-stutter.
 * [Optifine](https://www.optifine.net/home) - OptiFine is a Minecraft optimization mod.
 * [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) - BetterFps is a Minecraft mod that add a few performance improvements.
 * [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - A Fabric mod to allow Optifine to run using Fabric loader.
@@ -107,8 +107,8 @@
 
 ### Technology
 
-* [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) ⭐ 1,779 | 🐛 458 | 🌐 Java | 📅 2026-08-17 - A Minecraft Mod about Matter, Energy and using them to conquer the world. Mainly focused on item storage.
-* [Botania](https://github.com/Vazkii/Botania) ⭐ 1,470 | 🐛 86 | 🌐 Java | 📅 2026-08-24 - Botania is a tech mod in essence. The theme is natural magic.
+* [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) ⭐ 1,779 | 🐛 456 | 🌐 Java | 📅 2026-08-25 - A Minecraft Mod about Matter, Energy and using them to conquer the world. Mainly focused on item storage.
+* [Botania](https://github.com/Vazkii/Botania) ⭐ 1,469 | 🐛 86 | 🌐 Java | 📅 2026-08-24 - Botania is a tech mod in essence. The theme is natural magic.
 * [Railcraft](https://github.com/Railcraft/Railcraft) ⭐ 525 | 🐛 170 | 🌐 Java | 📅 2023-09-20 - Greatly expand and improve the Minecart system in Minecraft.
 * [Tinkers Construct](https://minecraft.curseforge.com/projects/tinkers-construct) - Tinkers' Construct is a mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else.
 * [Immersive Engineering](https://minecraft.curseforge.com/projects/immersive-engineering) - Immersive Engineering is a tech mod with a certain charm, based on the ideas and concepts, and with most assets created by Damien Hazard.
@@ -130,7 +130,7 @@
 
 ### Energy
 
-* [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) ⭐ 1,779 | 🐛 458 | 🌐 Java | 📅 2026-08-17 - A Minecraft Mod about Matter, Energy and using them to conquer the world.
+* [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) ⭐ 1,779 | 🐛 456 | 🌐 Java | 📅 2026-08-25 - A Minecraft Mod about Matter, Energy and using them to conquer the world.
 * [RFTools](https://minecraft.curseforge.com/projects/rftools) - RFTools is a mod containing various tools that are related to RF (Redflux) or technology in general.
 * [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors) - Adds nuclear reactors with the fictional fuel 'yellorium'. A carry on of the original Big Reactors.
 * [Zetta Industries](https://www.curseforge.com/minecraft/mc-mods/zetta-industries) - A mod which adds the main multiblock of a big battery.
@@ -212,7 +212,7 @@
 
 ### Servers
 
-* [Docker-Minecraft](https://github.com/itzg/docker-minecraft-server) ⭐ 14,196 | 🐛 143 | 🌐 Shell | 📅 2026-08-23 - A self-hosted Minecraft server using Docker containers.
+* [Docker-Minecraft](https://github.com/itzg/docker-minecraft-server) ⭐ 14,199 | 🐛 143 | 🌐 Shell | 📅 2026-08-23 - A self-hosted Minecraft server using Docker containers.
 * [Gate](https://github.com/minekube/gate) ⭐ 1,071 | 🐛 35 | 🌐 Go | 📅 2026-08-24 - A high performance & paralleled Minecraft proxy written in Go.
 * [Legendary-Java-Minecraft-Geyser-Floodgate](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) ⭐ 222 | 🐛 1 | 🌐 Shell | 📅 2026-05-03 - PaperMC server with out of the box Geyser and Floodgate support using docker.
 * [minecraft-docker](https://github.com/tywil04/minecraft-docker) ⚠️ Archived - Fork of [Legendary-Java-Minecraft-Geyser-Floodgate](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) ⭐ 222 | 🐛 1 | 🌐 Shell | 📅 2026-05-03 that embeds a discord bot for easy starting and stopping of the server.
@@ -237,14 +237,14 @@
 ### Utilities
 
 * [Amidst](https://github.com/toolbox4minecraft/amidst) ⭐ 2,268 | 🐛 268 | 🌐 Java | 📅 2025-12-01 - Display an overview of a Minecraft world, without actually creating it.
-* [Amulet](https://github.com/Amulet-Team/Amulet-Map-Editor) ⭐ 2,225 | 🐛 209 | 🌐 Python | 📅 2026-08-11 - Map viewer/editor.
+* [Amulet](https://github.com/Amulet-Team/Amulet-Map-Editor) ⭐ 2,226 | 🐛 209 | 🌐 Python | 📅 2026-08-11 - Map viewer/editor.
 * [NBTEditor](https://github.com/Howaner/NBTEditor) ⭐ 72 | 🐛 5 | 🌐 C++ | 📅 2024-05-31 - Edit NBT from .dat files.
 * [Minecraft Command Helper](https://github.com/IceLitty/Minecraft-Command-Helper) ⚠️ Archived - A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)
 * [Minecraft Command Science](https://minecraftcommand.science/) - Several Minecraft vanilla JSON generators.
 
 ### Launchers
 
-* [HMCL](https://github.com/huanghongxun/HMCL) ⭐ 9,917 | 🐛 512 | 🌐 Java | 📅 2026-08-23 - A powered Minecraft launcher that supports a lot of features.
+* [HMCL](https://github.com/huanghongxun/HMCL) ⭐ 9,919 | 🐛 513 | 🌐 Java | 📅 2026-08-23 - A powered Minecraft launcher that supports a lot of features.
 * [MultiMC](https://github.com/MultiMC/MultiMC5) ⭐ 4,666 | 🐛 323 | 🌐 C++ | 📅 2026-07-28 - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 * [XMCL](https://github.com/Voxelum/x-minecraft-launcher) ⭐ 1,579 | 🐛 62 | 🌐 TypeScript | 📅 2026-08-24 - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
 * [Polymerium](https://github.com/d3ara1n/Polymerium) ⭐ 115 | 🐛 8 | 🌐 C# | 📅 2026-08-24 - 🐿️ A next-generation Minecraft instance manager that thinks differently about game management.
