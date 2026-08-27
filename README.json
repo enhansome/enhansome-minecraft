@@ -12,10 +12,10 @@
             "archived": false,
             "id": 3301400,
             "language": "Java",
-            "last_commit": "2026-08-20T15:47:20Z",
+            "last_commit": "2026-08-27T04:48:22Z",
             "owner": "MinecraftForge",
             "repo": "MinecraftForge",
-            "stars": 7759
+            "stars": 7762
           }
         },
         {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-23T16:56:37Z",
                 "owner": "CaffeineMC",
                 "repo": "sodium",
-                "stars": 5734
+                "stars": 5735
               }
             }
           ],
@@ -127,7 +127,7 @@
                 "last_commit": "2026-08-26T01:07:40Z",
                 "owner": "AppliedEnergistics",
                 "repo": "Applied-Energistics-2",
-                "stars": 1780
+                "stars": 1781
               }
             },
             {
@@ -139,10 +139,10 @@
                 "archived": false,
                 "id": 15870488,
                 "language": "Java",
-                "last_commit": "2026-08-24T15:13:01Z",
+                "last_commit": "2026-08-26T19:50:50Z",
                 "owner": "VazkiiMods",
                 "repo": "Botania",
-                "stars": 1469
+                "stars": 1471
               }
             },
             {
@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-26T01:07:40Z",
                 "owner": "AppliedEnergistics",
                 "repo": "Applied-Energistics-2",
-                "stars": 1780
+                "stars": 1781
               }
             }
           ],
@@ -223,7 +223,7 @@
                 "last_commit": "2026-08-18T23:55:44Z",
                 "owner": "EngineHub",
                 "repo": "WorldEdit",
-                "stars": 3499
+                "stars": 3501
               }
             }
           ],
@@ -264,7 +264,7 @@
             "last_commit": "2026-08-25T22:34:10Z",
             "owner": "PlayPro",
             "repo": "CoreProtect",
-            "stars": 976
+            "stars": 977
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-03-30T13:42:24Z",
             "owner": "bs-community",
             "repo": "blessing-skin-server",
-            "stars": 1042
+            "stars": 1043
           }
         }
       ],
@@ -365,10 +365,10 @@
                 "archived": false,
                 "id": 19897878,
                 "language": "Shell",
-                "last_commit": "2026-08-26T08:33:44Z",
+                "last_commit": "2026-08-26T21:37:40Z",
                 "owner": "itzg",
                 "repo": "docker-minecraft-server",
-                "stars": 14206
+                "stars": 14215
               }
             },
             {
@@ -380,7 +380,7 @@
                 "archived": false,
                 "id": 284546536,
                 "language": "Go",
-                "last_commit": "2026-08-24T22:24:31Z",
+                "last_commit": "2026-08-27T08:17:21Z",
                 "owner": "minekube",
                 "repo": "gate",
                 "stars": 1071
@@ -398,7 +398,7 @@
                 "last_commit": "2026-05-03T17:43:25Z",
                 "owner": "TheRemote",
                 "repo": "Legendary-Java-Minecraft-Geyser-Floodgate",
-                "stars": 222
+                "stars": 223
               }
             },
             {
@@ -432,7 +432,7 @@
                 "archived": false,
                 "id": 7394347,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T19:58:42Z",
+                "last_commit": "2026-08-27T04:03:20Z",
                 "owner": "PrismarineJS",
                 "repo": "node-minecraft-protocol",
                 "stars": 1417
@@ -517,7 +517,7 @@
                 "last_commit": "2026-08-11T15:19:19Z",
                 "owner": "Amulet-Team",
                 "repo": "Amulet-Map-Editor",
-                "stars": 2227
+                "stars": 2229
               }
             },
             {
@@ -566,10 +566,10 @@
                 "archived": false,
                 "id": 37844001,
                 "language": "Java",
-                "last_commit": "2026-08-25T13:53:38Z",
+                "last_commit": "2026-08-26T13:47:28Z",
                 "owner": "HMCL-dev",
                 "repo": "HMCL",
-                "stars": 9928
+                "stars": 9932
               }
             },
             {
@@ -584,7 +584,7 @@
                 "last_commit": "2026-07-28T22:08:09Z",
                 "owner": "MultiMC",
                 "repo": "Launcher",
-                "stars": 4664
+                "stars": 4666
               }
             },
             {
@@ -596,10 +596,10 @@
                 "archived": false,
                 "id": 95660324,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T03:50:44Z",
+                "last_commit": "2026-08-26T17:04:00Z",
                 "owner": "Voxelum",
                 "repo": "x-minecraft-launcher",
-                "stars": 1577
+                "stars": 1579
               }
             },
             {
@@ -663,9 +663,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:21:50.054Z",
-    "original_repository": "bs-community/awesome-minecraft",
-    "original_repository_id": 135013128,
+    "last_updated": "2026-08-27T11:53:05.331Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 135013128,
+      "language": null,
+      "last_commit": "2025-08-23T13:16:01Z",
+      "owner": "bs-community",
+      "repo": "awesome-minecraft",
+      "stars": 644
+    },
     "original_repository_sha": "2d95490898d83bf9cf0e5f3bc083ae02a276995b",
     "enhanced_repository": "enhansome/enhansome-minecraft",
     "enhanced_repository_description": null,
