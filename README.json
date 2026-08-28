@@ -15,8 +15,9 @@
             "last_commit": "2026-08-27T04:48:22Z",
             "owner": "MinecraftForge",
             "repo": "MinecraftForge",
-            "stars": 7762
-          }
+            "stars": 7766
+          },
+          "first_seen": "2026-08-28T20:20:29.946Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "FyberOptic",
             "repo": "Meddle",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T20:20:29.946Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "RopeMC",
             "repo": "RopeMC",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:20:29.946Z"
         }
       ],
       "title": "Mod Loaders"
@@ -68,8 +71,9 @@
                 "last_commit": "2026-08-23T16:56:37Z",
                 "owner": "CaffeineMC",
                 "repo": "sodium",
-                "stars": 5735
-              }
+                "stars": 5736
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             }
           ],
           "description": null,
@@ -91,7 +95,8 @@
                 "owner": "xfl03",
                 "repo": "MCCustomSkinLoader",
                 "stars": 606
-              }
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             },
             {
               "node_type": "item",
@@ -106,7 +111,8 @@
                 "owner": "RecursiveG",
                 "repo": "UniSkinMod",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             }
           ],
           "description": null,
@@ -127,8 +133,9 @@
                 "last_commit": "2026-08-26T01:07:40Z",
                 "owner": "AppliedEnergistics",
                 "repo": "Applied-Energistics-2",
-                "stars": 1782
-              }
+                "stars": 1784
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             },
             {
               "node_type": "item",
@@ -143,7 +150,8 @@
                 "owner": "VazkiiMods",
                 "repo": "Botania",
                 "stars": 1471
-              }
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             },
             {
               "node_type": "item",
@@ -158,7 +166,8 @@
                 "owner": "Railcraft",
                 "repo": "Railcraft",
                 "stars": 525
-              }
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             }
           ],
           "description": null,
@@ -179,8 +188,9 @@
                 "last_commit": "2026-08-26T01:07:40Z",
                 "owner": "AppliedEnergistics",
                 "repo": "Applied-Energistics-2",
-                "stars": 1782
-              }
+                "stars": 1784
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             }
           ],
           "description": null,
@@ -202,7 +212,8 @@
                 "owner": "ljfa-ag",
                 "repo": "TNTUtils",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             }
           ],
           "description": null,
@@ -223,8 +234,9 @@
                 "last_commit": "2026-08-18T23:55:44Z",
                 "owner": "EngineHub",
                 "repo": "WorldEdit",
-                "stars": 3501
-              }
+                "stars": 3500
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             }
           ],
           "description": null,
@@ -250,7 +262,8 @@
             "owner": "ViaVersion",
             "repo": "ViaVersion",
             "stars": 1615
-          }
+          },
+          "first_seen": "2026-08-28T20:20:29.946Z"
         },
         {
           "node_type": "item",
@@ -264,8 +277,9 @@
             "last_commit": "2026-08-25T22:34:10Z",
             "owner": "PlayPro",
             "repo": "CoreProtect",
-            "stars": 977
-          }
+            "stars": 978
+          },
+          "first_seen": "2026-08-28T20:20:29.946Z"
         },
         {
           "node_type": "item",
@@ -280,7 +294,8 @@
             "owner": "EngineHub",
             "repo": "WorldGuard",
             "stars": 936
-          }
+          },
+          "first_seen": "2026-08-28T20:20:29.946Z"
         },
         {
           "node_type": "item",
@@ -295,7 +310,8 @@
             "owner": "EngineHub",
             "repo": "CraftBook",
             "stars": 320
-          }
+          },
+          "first_seen": "2026-08-28T20:20:29.946Z"
         },
         {
           "node_type": "item",
@@ -310,7 +326,8 @@
             "owner": "Rammelkast",
             "repo": "AntiCheatReloaded",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T20:20:29.946Z"
         },
         {
           "node_type": "item",
@@ -325,7 +342,8 @@
             "owner": "benjaminforras",
             "repo": "AdvancedKitsReloaded",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:20:29.946Z"
         }
       ],
       "title": "Server Plugins"
@@ -346,7 +364,8 @@
             "owner": "bs-community",
             "repo": "blessing-skin-server",
             "stars": 1043
-          }
+          },
+          "first_seen": "2026-08-28T20:20:29.946Z"
         }
       ],
       "title": "Web Applications"
@@ -365,11 +384,12 @@
                 "archived": false,
                 "id": 19897878,
                 "language": "Shell",
-                "last_commit": "2026-08-27T17:38:41Z",
+                "last_commit": "2026-08-28T12:25:50Z",
                 "owner": "itzg",
                 "repo": "docker-minecraft-server",
-                "stars": 14218
-              }
+                "stars": 14223
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             },
             {
               "node_type": "item",
@@ -380,11 +400,12 @@
                 "archived": false,
                 "id": 284546536,
                 "language": "Go",
-                "last_commit": "2026-08-27T08:17:21Z",
+                "last_commit": "2026-08-28T20:11:54Z",
                 "owner": "minekube",
                 "repo": "gate",
-                "stars": 1071
-              }
+                "stars": 1072
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             },
             {
               "node_type": "item",
@@ -399,7 +420,8 @@
                 "owner": "TheRemote",
                 "repo": "Legendary-Java-Minecraft-Geyser-Floodgate",
                 "stars": 223
-              }
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             },
             {
               "node_type": "item",
@@ -414,7 +436,8 @@
                 "owner": "tywil04",
                 "repo": "discord-bot-controlled-minecraft-server",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             }
           ],
           "description": null,
@@ -435,8 +458,9 @@
                 "last_commit": "2026-08-27T04:03:20Z",
                 "owner": "PrismarineJS",
                 "repo": "node-minecraft-protocol",
-                "stars": 1417
-              }
+                "stars": 1416
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             },
             {
               "node_type": "item",
@@ -451,7 +475,8 @@
                 "owner": "GeyserMC",
                 "repo": "MCProtocolLib",
                 "stars": 912
-              }
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             },
             {
               "node_type": "item",
@@ -466,7 +491,8 @@
                 "owner": "Zerite",
                 "repo": "CraftLib",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             },
             {
               "node_type": "item",
@@ -481,7 +507,8 @@
                 "owner": "BRA1L0R",
                 "repo": "go-mcproto",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             }
           ],
           "description": null,
@@ -503,7 +530,8 @@
                 "owner": "toolbox4minecraft",
                 "repo": "amidst",
                 "stars": 2268
-              }
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             },
             {
               "node_type": "item",
@@ -514,11 +542,12 @@
                 "archived": false,
                 "id": 222710374,
                 "language": "Python",
-                "last_commit": "2026-08-11T15:19:19Z",
+                "last_commit": "2026-08-28T16:00:39Z",
                 "owner": "Amulet-Team",
                 "repo": "Amulet-Map-Editor",
-                "stars": 2229
-              }
+                "stars": 2230
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             },
             {
               "node_type": "item",
@@ -532,8 +561,9 @@
                 "last_commit": "2024-05-31T20:11:57Z",
                 "owner": "Howaner",
                 "repo": "NBTEditor",
-                "stars": 72
-              }
+                "stars": 73
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             },
             {
               "node_type": "item",
@@ -548,7 +578,8 @@
                 "owner": "IceLitty",
                 "repo": "Minecraft-Command-Helper",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             }
           ],
           "description": null,
@@ -566,11 +597,12 @@
                 "archived": false,
                 "id": 37844001,
                 "language": "Java",
-                "last_commit": "2026-08-27T13:37:15Z",
+                "last_commit": "2026-08-28T14:02:22Z",
                 "owner": "HMCL-dev",
                 "repo": "HMCL",
-                "stars": 9939
-              }
+                "stars": 9945
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             },
             {
               "node_type": "item",
@@ -584,8 +616,9 @@
                 "last_commit": "2026-07-28T22:08:09Z",
                 "owner": "MultiMC",
                 "repo": "Launcher",
-                "stars": 4666
-              }
+                "stars": 4667
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             },
             {
               "node_type": "item",
@@ -596,11 +629,12 @@
                 "archived": false,
                 "id": 95660324,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T16:47:16Z",
+                "last_commit": "2026-08-28T09:10:46Z",
                 "owner": "Voxelum",
                 "repo": "x-minecraft-launcher",
-                "stars": 1581
-              }
+                "stars": 1582
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             },
             {
               "node_type": "item",
@@ -611,11 +645,12 @@
                 "archived": false,
                 "id": 587816508,
                 "language": "C#",
-                "last_commit": "2026-08-26T03:07:27Z",
+                "last_commit": "2026-08-28T06:36:45Z",
                 "owner": "d3ara1n",
                 "repo": "Polymerium",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T20:20:29.946Z"
             }
           ],
           "description": null,
@@ -641,7 +676,8 @@
             "owner": "tterrag1098",
             "repo": "BON2",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T20:20:29.946Z"
         },
         {
           "node_type": "item",
@@ -656,14 +692,15 @@
             "owner": "EngineHub",
             "repo": "SchematicWebViewer",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T20:20:29.946Z"
         }
       ],
       "title": "Development"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:14:15.949Z",
+    "last_updated": "2026-08-28T20:20:29.946Z",
     "original_repository_info": {
       "archived": false,
       "id": 135013128,
