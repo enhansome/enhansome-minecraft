@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modifications to the Minecraft base files to assist in compatibility between mods. New Discord: https://discord.minecraftforge.net/",
+            "homepage": "https://files.minecraftforge.net/",
             "id": 3301400,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T04:48:22Z",
+            "open_issues": 180,
             "owner": "MinecraftForge",
             "repo": "MinecraftForge",
-            "stars": 7766
+            "stars": 7765,
+            "topics": [
+              "forge",
+              "java",
+              "minecraft",
+              "mod"
+            ]
           },
           "first_seen": "2026-08-28T20:20:29.946Z"
         },
@@ -26,12 +36,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Everything related to modding 1.9/1.10 snapshots in one place",
+            "homepage": null,
             "id": 40023055,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2016-05-30T20:04:23Z",
+            "open_issues": 1,
             "owner": "FyberOptic",
             "repo": "Meddle",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:29.946Z"
         },
@@ -42,12 +57,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Got replaced with:",
+            "homepage": "https://github.com/RopeMC/RopeV2",
             "id": 103042886,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2019-01-02T21:48:25Z",
+            "open_issues": 0,
             "owner": "RopeMC",
             "repo": "RopeMC",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "javassist",
+              "minecraft",
+              "minecraft-api",
+              "mod",
+              "modding",
+              "modding-games",
+              "modification"
+            ]
           },
           "first_seen": "2026-08-28T20:20:29.946Z"
         }
@@ -66,12 +94,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter",
+                "homepage": null,
                 "id": 237553513,
                 "language": "Java",
-                "last_commit": "2026-08-23T16:56:37Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T00:56:40Z",
+                "open_issues": 153,
                 "owner": "CaffeineMC",
                 "repo": "sodium",
-                "stars": 5736
+                "stars": 5737,
+                "topics": [
+                  "fabric",
+                  "minecraft",
+                  "neoforge"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             }
@@ -89,12 +126,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Customize Skin, Cape and Elytra in Minecraft 1.8-1.21",
+                "homepage": null,
                 "id": 18766989,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-12T12:28:41Z",
+                "open_issues": 43,
                 "owner": "xfl03",
                 "repo": "MCCustomSkinLoader",
-                "stars": 606
+                "stars": 606,
+                "topics": [
+                  "fabric",
+                  "forge",
+                  "gradle",
+                  "java",
+                  "minecraft",
+                  "minecraft-mod"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             },
@@ -105,12 +154,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[No longer active, check https://github.com/xfl03/MCCustomSkinLoader] . A Minecraft Forge Mod allows players load custom skin & cape textures.",
+                "homepage": null,
                 "id": 12403074,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2016-06-06T10:19:37Z",
+                "open_issues": 3,
                 "owner": "RecursiveG",
                 "repo": "UniSkinMod",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             }
@@ -128,12 +182,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Minecraft Mod about Matter, Energy and using them to conquer the world..",
+                "homepage": "https://appliedenergistics.github.io/",
                 "id": 24395109,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T01:07:40Z",
+                "open_issues": 456,
                 "owner": "AppliedEnergistics",
                 "repo": "Applied-Energistics-2",
-                "stars": 1784
+                "stars": 1784,
+                "topics": [
+                  "applied-energistics",
+                  "appliedenergistics",
+                  "fabric",
+                  "forge",
+                  "hacktoberfest",
+                  "java",
+                  "minecraft",
+                  "minecraft-mod",
+                  "mod"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             },
@@ -144,12 +213,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tech mod for Minecraft themed around the magic of nature and plant life.",
+                "homepage": "http://botaniamod.net/index.html",
                 "id": 15870488,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T18:40:55Z",
+                "open_issues": 88,
                 "owner": "VazkiiMods",
                 "repo": "Botania",
-                "stars": 1471
+                "stars": 1471,
+                "topics": [
+                  "hacktoberfest",
+                  "java",
+                  "minecraft"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             },
@@ -160,12 +238,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Railcraft Mod for Minecraft, source and development.",
+                "homepage": "http://www.railcraft.info/",
                 "id": 7177096,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-20T04:01:42Z",
+                "open_issues": 170,
                 "owner": "Railcraft",
                 "repo": "Railcraft",
-                "stars": 525
+                "stars": 525,
+                "topics": [
+                  "game",
+                  "gradle",
+                  "java",
+                  "minecart",
+                  "minecraft",
+                  "minecraft-mod",
+                  "patreon",
+                  "railcraft",
+                  "railway"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             }
@@ -183,12 +276,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Minecraft Mod about Matter, Energy and using them to conquer the world..",
+                "homepage": "https://appliedenergistics.github.io/",
                 "id": 24395109,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T01:07:40Z",
+                "open_issues": 456,
                 "owner": "AppliedEnergistics",
                 "repo": "Applied-Energistics-2",
-                "stars": 1784
+                "stars": 1784,
+                "topics": [
+                  "applied-energistics",
+                  "appliedenergistics",
+                  "fabric",
+                  "forge",
+                  "hacktoberfest",
+                  "java",
+                  "minecraft",
+                  "minecraft-mod",
+                  "mod"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             }
@@ -206,12 +314,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "More control over explosions in Minecraft",
+                "homepage": null,
                 "id": 30122479,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-02T16:34:01Z",
+                "open_issues": 3,
                 "owner": "ljfa-ag",
                 "repo": "TNTUtils",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "explosion",
+                  "minecraft",
+                  "minecraft-forge",
+                  "minecraft-mod"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             }
@@ -229,12 +347,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗺️ Minecraft map editor and mod",
+                "homepage": "https://enginehub.org/worldedit/",
                 "id": 944926,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-18T23:55:44Z",
+                "open_issues": 175,
                 "owner": "EngineHub",
                 "repo": "WorldEdit",
-                "stars": 3500
+                "stars": 3499,
+                "topics": [
+                  "bukkit",
+                  "forge",
+                  "gradle",
+                  "hacktoberfest",
+                  "java",
+                  "minecraft",
+                  "spigot",
+                  "sponge",
+                  "worldedit"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             }
@@ -256,12 +389,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Allows of newer clients to connect to older server versions for Minecraft servers.",
+            "homepage": "https://viaversion.com",
             "id": 52748444,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-23T13:10:09Z",
+            "open_issues": 74,
             "owner": "ViaVersion",
             "repo": "ViaVersion",
-            "stars": 1615
+            "stars": 1615,
+            "topics": [
+              "bukkit",
+              "bungeecord",
+              "fabric",
+              "hacktoberfest",
+              "java",
+              "java-edition",
+              "minecraft",
+              "paper",
+              "plugin",
+              "spigot",
+              "sponge",
+              "sponge-plugin",
+              "velocity",
+              "viaversion"
+            ]
           },
           "first_seen": "2026-08-28T20:20:29.946Z"
         },
@@ -272,12 +425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers.",
+            "homepage": null,
             "id": 100995928,
             "language": "Java",
+            "license": "Artistic-2.0",
             "last_commit": "2026-08-25T22:34:10Z",
+            "open_issues": 121,
             "owner": "PlayPro",
             "repo": "CoreProtect",
-            "stars": 978
+            "stars": 978,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:29.946Z"
         },
@@ -288,12 +446,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛡️ Protect your Minecraft server and lets players claim areas",
+            "homepage": "https://enginehub.org/worldguard/",
             "id": 1090553,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T11:21:45Z",
+            "open_issues": 159,
             "owner": "EngineHub",
             "repo": "WorldGuard",
-            "stars": 936
+            "stars": 936,
+            "topics": [
+              "java",
+              "minecraft",
+              "worldedit",
+              "worldguard"
+            ]
           },
           "first_seen": "2026-08-28T20:20:29.946Z"
         },
@@ -304,12 +472,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔧 Machines, ICs, PLCs, and more!",
+            "homepage": "https://enginehub.org/craftbook/",
             "id": 1017227,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T12:48:19Z",
+            "open_issues": 85,
             "owner": "EngineHub",
             "repo": "CraftBook",
-            "stars": 320
+            "stars": 320,
+            "topics": [
+              "bukkit",
+              "craftbook",
+              "gameplay",
+              "gradle",
+              "hacktoberfest",
+              "ics",
+              "java",
+              "mechanics",
+              "minecraft",
+              "plugin",
+              "redstone",
+              "server",
+              "spigot",
+              "sponge",
+              "worldedit"
+            ]
           },
           "first_seen": "2026-08-28T20:20:29.946Z"
         },
@@ -320,12 +509,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The free anti-cheat since 2016",
+            "homepage": null,
             "id": 59689707,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-13T13:30:19Z",
+            "open_issues": 0,
             "owner": "Rammelkast",
             "repo": "AntiCheatReloaded",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "acr",
+              "anti-cheat",
+              "anti-hack",
+              "anticheat",
+              "anticheatreloaded",
+              "bukkit",
+              "bukkit-plugin",
+              "minecraft",
+              "minecraft-anti-cheat",
+              "minecraft-anticheat",
+              "minecraft-cheat",
+              "minecraft-plugin",
+              "spigot",
+              "spigot-plugin"
+            ]
           },
           "first_seen": "2026-08-28T20:20:29.946Z"
         },
@@ -336,12 +545,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "AdvancedKitsReloaded is a Kit managing plugin for Minecraft servers which runs Bukkit, CraftBukkit, Spigot and Paper (>1.8).  With this plugin you can easily create/edit/delete your kits and you can customize it as much as you'd like.",
+            "homepage": null,
             "id": 74204494,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-05-29T16:15:34Z",
+            "open_issues": 12,
             "owner": "benjaminforras",
             "repo": "AdvancedKitsReloaded",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "advancedkits",
+              "bukkit",
+              "craftbukkit",
+              "kit",
+              "paper",
+              "plugin",
+              "spigot",
+              "tryharddood"
+            ]
           },
           "first_seen": "2026-08-28T20:20:29.946Z"
         }
@@ -358,12 +581,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web application brings your custom skins back in offline Minecraft servers.",
+            "homepage": null,
             "id": 159007016,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-03-30T13:42:24Z",
+            "open_issues": 26,
             "owner": "bs-community",
             "repo": "blessing-skin-server",
-            "stars": 1043
+            "stars": 1043,
+            "topics": [
+              "laravel",
+              "minecraft"
+            ]
           },
           "first_seen": "2026-08-28T20:20:29.946Z"
         }
@@ -382,12 +613,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup",
+                "homepage": "https://docker-minecraft-server.readthedocs.io/",
                 "id": 19897878,
                 "language": "Shell",
-                "last_commit": "2026-08-28T12:25:50Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:39:42Z",
+                "open_issues": 139,
                 "owner": "itzg",
                 "repo": "docker-minecraft-server",
-                "stars": 14223
+                "stars": 14226,
+                "topics": [
+                  "docker-image",
+                  "dockerfiles",
+                  "hacktoberfest",
+                  "java",
+                  "minecraft-server"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             },
@@ -398,12 +640,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build efficient Bedrock & Java Minecraft networks with multi-version support. Powers global Connect network at production scale. Runs with 10MB.",
+                "homepage": "https://gate.minekube.com",
                 "id": 284546536,
                 "language": "Go",
-                "last_commit": "2026-08-28T20:11:54Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:17:59Z",
+                "open_issues": 46,
                 "owner": "minekube",
                 "repo": "gate",
-                "stars": 1072
+                "stars": 1072,
+                "topics": [
+                  "docker",
+                  "forge",
+                  "go",
+                  "java",
+                  "kubernetes",
+                  "lightweight",
+                  "minecraft",
+                  "minecraft-forge",
+                  "minecraft-network",
+                  "minecraft-proxy",
+                  "minecraft-server",
+                  "minecraft-server-proxy",
+                  "paper",
+                  "proxy",
+                  "reverse-proxy",
+                  "server-proxy",
+                  "spigot"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             },
@@ -414,12 +679,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Legendary Java Minecraft + Geyser + Floodgate + Paper Dedicated Server for Docker allowing Bedrock players to connect to a Java server",
+                "homepage": "https://jamesachambers.com/minecraft-java-bedrock-server-together-geyser-floodgate/",
                 "id": 522033620,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-05-03T17:43:25Z",
+                "open_issues": 1,
                 "owner": "TheRemote",
                 "repo": "Legendary-Java-Minecraft-Geyser-Floodgate",
-                "stars": 223
+                "stars": 223,
+                "topics": [
+                  "dedicated-game-server",
+                  "dedicated-server",
+                  "docker",
+                  "floodgate",
+                  "geysermc",
+                  "minecraft",
+                  "minecraft-server",
+                  "papermc"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             },
@@ -430,12 +709,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Java and Bedrock Minecraft server with embed Discord bot that allows members to start and stop the server on command.",
+                "homepage": null,
                 "id": 648395502,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-12-14T21:38:57Z",
+                "open_issues": 0,
                 "owner": "tywil04",
                 "repo": "discord-bot-controlled-minecraft-server",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "discord-bots",
+                  "discordgo",
+                  "docker",
+                  "github-package-registry",
+                  "golang",
+                  "minecraft",
+                  "minecraft-bedrock",
+                  "minecraft-java",
+                  "minecraft-server",
+                  "mit-license"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             }
@@ -453,12 +748,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parse and serialize minecraft packets, plus authentication and encryption.",
+                "homepage": "https://prismarinejs.github.io/node-minecraft-protocol/",
                 "id": 7394347,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T04:03:20Z",
+                "open_issues": 126,
                 "owner": "PrismarineJS",
                 "repo": "node-minecraft-protocol",
-                "stars": 1416
+                "stars": 1416,
+                "topics": [
+                  "client",
+                  "minecraft",
+                  "network",
+                  "packets",
+                  "protocol",
+                  "proxy",
+                  "server"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             },
@@ -469,12 +777,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for communication with a Minecraft client/server.",
+                "homepage": null,
                 "id": 5393808,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-24T12:44:20Z",
+                "open_issues": 18,
                 "owner": "GeyserMC",
                 "repo": "MCProtocolLib",
-                "stars": 912
+                "stars": 912,
+                "topics": [
+                  "java",
+                  "library",
+                  "minecraft",
+                  "minecraft-protocol",
+                  "protocol"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             },
@@ -485,12 +804,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎮 CraftLib wraps the entire Minecraft codebase as a Java / Kotlin library. Supports protocol, NBT, chat and schematics. 1.7.x - 1.8.x",
+                "homepage": "https://zerite.dev",
                 "id": 269539676,
                 "language": "Kotlin",
+                "license": "LGPL-3.0",
                 "last_commit": "2022-12-29T10:11:12Z",
+                "open_issues": 3,
                 "owner": "Zerite",
                 "repo": "CraftLib",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "craftlib",
+                  "java",
+                  "kotlin",
+                  "minecraft",
+                  "minecraft-api",
+                  "minecraft-chat",
+                  "minecraft-codebase",
+                  "minecraft-nbt",
+                  "minecraft-protocol",
+                  "nbt",
+                  "protocol",
+                  "schematic"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             },
@@ -501,12 +838,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Minecraft Protocol implementation in Go",
+                "homepage": null,
                 "id": 372461375,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-06-05T08:36:07Z",
+                "open_issues": 0,
                 "owner": "BRA1L0R",
                 "repo": "go-mcproto",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "bot",
+                  "mcproto",
+                  "minecraft",
+                  "protocol",
+                  "spigot"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             }
@@ -524,12 +872,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced Minecraft Interface and Data/Structure Tracking",
+                "homepage": null,
                 "id": 48816368,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-01T23:25:58Z",
+                "open_issues": 268,
                 "owner": "toolbox4minecraft",
                 "repo": "amidst",
-                "stars": 2268
+                "stars": 2268,
+                "topics": [
+                  "minecraft"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             },
@@ -540,12 +895,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.",
+                "homepage": "https://www.amuletmc.com/",
                 "id": 222710374,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:00:39Z",
+                "open_issues": 209,
                 "owner": "Amulet-Team",
                 "repo": "Amulet-Map-Editor",
-                "stars": 2230
+                "stars": 2231,
+                "topics": [
+                  "3rd-party",
+                  "amulet",
+                  "converter",
+                  "map-editor",
+                  "minecraft",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             },
@@ -556,12 +924,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Editor for Minecraft NBT and schematic files",
+                "homepage": null,
                 "id": 121060025,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-05-31T20:11:57Z",
+                "open_issues": 5,
                 "owner": "Howaner",
                 "repo": "NBTEditor",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             },
@@ -572,12 +945,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A WPF Program about generate Minecraft Command (with NBT data).",
+                "homepage": "http://www.mcbbs.net/thread-381131-1-1.html",
                 "id": 51099505,
                 "language": "C#",
+                "license": "LGPL-3.0",
                 "last_commit": "2022-06-22T18:13:35Z",
+                "open_issues": 2,
                 "owner": "IceLitty",
                 "repo": "Minecraft-Command-Helper",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             }
@@ -595,12 +973,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
+                "homepage": "https://hmcl.huangyuhui.net",
                 "id": 37844001,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T14:02:22Z",
+                "open_issues": 528,
                 "owner": "HMCL-dev",
                 "repo": "HMCL",
-                "stars": 9945
+                "stars": 9948,
+                "topics": [
+                  "javafx",
+                  "minecraft",
+                  "minecraft-launcher"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             },
@@ -611,12 +998,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once",
+                "homepage": "https://multimc.org/",
                 "id": 12682212,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-28T22:08:09Z",
+                "open_issues": 324,
                 "owner": "MultiMC",
                 "repo": "Launcher",
-                "stars": 4667
+                "stars": 4667,
+                "topics": [
+                  "c-plus-plus",
+                  "launcher",
+                  "minecraft",
+                  "multimc"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             },
@@ -627,12 +1024,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open Source Minecraft Launcher with Modern UX. Provides a Disk Efficient way to manage all your Mods!",
+                "homepage": "https://xmcl.app/",
                 "id": 95660324,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T09:10:46Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:29:21Z",
+                "open_issues": 59,
                 "owner": "Voxelum",
                 "repo": "x-minecraft-launcher",
-                "stars": 1582
+                "stars": 1582,
+                "topics": [
+                  "curseforge",
+                  "custom-minecraft-launcher",
+                  "electron",
+                  "electron-vue",
+                  "fabricmc",
+                  "minecraft",
+                  "minecraft-launcher",
+                  "minecraftforge",
+                  "modrinth",
+                  "nodejs",
+                  "quiltmc",
+                  "typescript",
+                  "vite"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             },
@@ -643,12 +1059,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐿️ A metadata-driven Minecraft launcher for reproducible, storage-efficient instances and a built-in CLI with MCP mode for AI agents.",
+                "homepage": "https://polymerium.dearain.dev",
                 "id": 587816508,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T06:36:45Z",
+                "open_issues": 8,
                 "owner": "d3ara1n",
                 "repo": "Polymerium",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "avalonia",
+                  "csharp",
+                  "dotnet",
+                  "fabric",
+                  "forge",
+                  "launcher",
+                  "minecraft",
+                  "modpack",
+                  "modrinth",
+                  "quilt",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T20:20:29.946Z"
             }
@@ -670,12 +1103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rewrite for Immibis's bearded-octo-nemesis for ForgeGradle",
+            "homepage": null,
             "id": 23542048,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2022-09-11T04:43:21Z",
+            "open_issues": 11,
             "owner": "tterrag1098",
             "repo": "BON2",
-            "stars": 190
+            "stars": 190,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:29.946Z"
         },
@@ -686,12 +1124,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An NPM package to facilitate importing and viewing of modern Minecraft schematics.",
+            "homepage": "https://madelinemiller.dev/contact/",
             "id": 208784594,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-22T12:36:51Z",
+            "open_issues": 4,
             "owner": "EngineHub",
             "repo": "SchematicWebViewer",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "hacktoberfest",
+              "javascript",
+              "minecraft",
+              "renderer",
+              "schematic",
+              "threejs",
+              "typescript",
+              "worldedit"
+            ]
           },
           "first_seen": "2026-08-28T20:20:29.946Z"
         }
@@ -700,15 +1152,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:20:29.946Z",
+    "last_updated": "2026-08-29T04:44:43.850Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📝 The curated list of awesome things related to Minecraft.",
+      "homepage": null,
       "id": 135013128,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-08-23T13:16:01Z",
+      "open_issues": 21,
       "owner": "bs-community",
       "repo": "awesome-minecraft",
-      "stars": 644
+      "stars": 644,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "minecraft"
+      ]
     },
     "original_repository_sha": "2d95490898d83bf9cf0e5f3bc083ae02a276995b",
     "enhanced_repository": "enhansome/enhansome-minecraft",
