@@ -103,7 +103,7 @@
                 "open_issues": 153,
                 "owner": "CaffeineMC",
                 "repo": "sodium",
-                "stars": 5737,
+                "stars": 5738,
                 "topics": [
                   "fabric",
                   "minecraft",
@@ -191,7 +191,7 @@
                 "open_issues": 456,
                 "owner": "AppliedEnergistics",
                 "repo": "Applied-Energistics-2",
-                "stars": 1784,
+                "stars": 1785,
                 "topics": [
                   "applied-energistics",
                   "appliedenergistics",
@@ -285,7 +285,7 @@
                 "open_issues": 456,
                 "owner": "AppliedEnergistics",
                 "repo": "Applied-Energistics-2",
-                "stars": 1784,
+                "stars": 1785,
                 "topics": [
                   "applied-energistics",
                   "appliedenergistics",
@@ -394,11 +394,11 @@
             "id": 52748444,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-23T13:10:09Z",
-            "open_issues": 74,
+            "last_commit": "2026-08-29T12:34:21Z",
+            "open_issues": 73,
             "owner": "ViaVersion",
             "repo": "ViaVersion",
-            "stars": 1615,
+            "stars": 1616,
             "topics": [
               "bukkit",
               "bungeecord",
@@ -590,7 +590,7 @@
             "open_issues": 26,
             "owner": "bs-community",
             "repo": "blessing-skin-server",
-            "stars": 1043,
+            "stars": 1044,
             "topics": [
               "laravel",
               "minecraft"
@@ -622,7 +622,7 @@
                 "open_issues": 139,
                 "owner": "itzg",
                 "repo": "docker-minecraft-server",
-                "stars": 14226,
+                "stars": 14229,
                 "topics": [
                   "docker-image",
                   "dockerfiles",
@@ -645,8 +645,8 @@
                 "id": 284546536,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T02:17:59Z",
-                "open_issues": 46,
+                "last_commit": "2026-08-29T12:45:24Z",
+                "open_issues": 50,
                 "owner": "minekube",
                 "repo": "gate",
                 "stars": 1072,
@@ -901,7 +901,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:00:39Z",
-                "open_issues": 209,
+                "open_issues": 208,
                 "owner": "Amulet-Team",
                 "repo": "Amulet-Map-Editor",
                 "stars": 2231,
@@ -979,10 +979,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-28T14:02:22Z",
-                "open_issues": 528,
+                "open_issues": 539,
                 "owner": "HMCL-dev",
                 "repo": "HMCL",
-                "stars": 9948,
+                "stars": 9952,
                 "topics": [
                   "javafx",
                   "minecraft",
@@ -1029,11 +1029,11 @@
                 "id": 95660324,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T03:29:21Z",
-                "open_issues": 59,
+                "last_commit": "2026-08-29T06:18:36Z",
+                "open_issues": 56,
                 "owner": "Voxelum",
                 "repo": "x-minecraft-launcher",
-                "stars": 1582,
+                "stars": 1584,
                 "topics": [
                   "curseforge",
                   "custom-minecraft-launcher",
@@ -1152,7 +1152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:44:43.850Z",
+    "last_updated": "2026-08-29T13:59:12.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 The curated list of awesome things related to Minecraft.",
