@@ -19,7 +19,7 @@
             "open_issues": 180,
             "owner": "MinecraftForge",
             "repo": "MinecraftForge",
-            "stars": 7776,
+            "stars": 7778,
             "topics": [
               "forge",
               "java",
@@ -356,7 +356,7 @@
                 "open_issues": 177,
                 "owner": "EngineHub",
                 "repo": "WorldEdit",
-                "stars": 3497,
+                "stars": 3498,
                 "topics": [
                   "bukkit",
                   "forge",
@@ -395,7 +395,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-09-04T18:54:17Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "ViaVersion",
             "repo": "ViaVersion",
             "stars": 1621,
@@ -434,7 +434,7 @@
             "open_issues": 119,
             "owner": "PlayPro",
             "repo": "CoreProtect",
-            "stars": 980,
+            "stars": 981,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:29.946Z"
@@ -618,11 +618,11 @@
                 "id": 19897878,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T03:54:02Z",
-                "open_issues": 140,
+                "last_commit": "2026-09-06T13:16:38Z",
+                "open_issues": 138,
                 "owner": "itzg",
                 "repo": "docker-minecraft-server",
-                "stars": 14261,
+                "stars": 14269,
                 "topics": [
                   "docker-image",
                   "dockerfiles",
@@ -645,8 +645,8 @@
                 "id": 284546536,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T09:15:44Z",
-                "open_issues": 44,
+                "last_commit": "2026-09-07T11:11:52Z",
+                "open_issues": 45,
                 "owner": "minekube",
                 "repo": "gate",
                 "stars": 1074,
@@ -754,7 +754,7 @@
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-04T11:22:50Z",
-                "open_issues": 128,
+                "open_issues": 134,
                 "owner": "PrismarineJS",
                 "repo": "node-minecraft-protocol",
                 "stars": 1415,
@@ -786,7 +786,7 @@
                 "open_issues": 18,
                 "owner": "GeyserMC",
                 "repo": "MCProtocolLib",
-                "stars": 910,
+                "stars": 911,
                 "topics": [
                   "java",
                   "library",
@@ -881,7 +881,7 @@
                 "open_issues": 268,
                 "owner": "toolbox4minecraft",
                 "repo": "amidst",
-                "stars": 2267,
+                "stars": 2266,
                 "topics": [
                   "minecraft"
                 ]
@@ -904,7 +904,7 @@
                 "open_issues": 198,
                 "owner": "Amulet-Team",
                 "repo": "Amulet-Map-Editor",
-                "stars": 2233,
+                "stars": 2234,
                 "topics": [
                   "3rd-party",
                   "amulet",
@@ -978,11 +978,11 @@
                 "id": 37844001,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T12:16:34Z",
-                "open_issues": 514,
+                "last_commit": "2026-09-07T13:15:16Z",
+                "open_issues": 511,
                 "owner": "HMCL-dev",
                 "repo": "HMCL",
-                "stars": 10009,
+                "stars": 10019,
                 "topics": [
                   "javafx",
                   "minecraft",
@@ -1007,7 +1007,7 @@
                 "open_issues": 324,
                 "owner": "MultiMC",
                 "repo": "Launcher",
-                "stars": 4674,
+                "stars": 4672,
                 "topics": [
                   "c-plus-plus",
                   "launcher",
@@ -1029,11 +1029,11 @@
                 "id": 95660324,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-06T12:15:58Z",
-                "open_issues": 61,
+                "last_commit": "2026-09-07T13:05:42Z",
+                "open_issues": 59,
                 "owner": "Voxelum",
                 "repo": "x-minecraft-launcher",
-                "stars": 1585,
+                "stars": 1588,
                 "topics": [
                   "curseforge",
                   "custom-minecraft-launcher",
@@ -1152,7 +1152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:17:58.430Z",
+    "last_updated": "2026-09-07T14:24:56.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 The curated list of awesome things related to Minecraft.",
