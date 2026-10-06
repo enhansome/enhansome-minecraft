@@ -19,7 +19,7 @@
             "open_issues": 181,
             "owner": "MinecraftForge",
             "repo": "MinecraftForge",
-            "stars": 7802,
+            "stars": 7803,
             "topics": [
               "forge",
               "java",
@@ -100,7 +100,7 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T16:11:25Z",
-                "open_issues": 165,
+                "open_issues": 164,
                 "owner": "CaffeineMC",
                 "repo": "sodium",
                 "stars": 5801,
@@ -434,7 +434,7 @@
             "open_issues": 107,
             "owner": "PlayPro",
             "repo": "CoreProtect",
-            "stars": 992,
+            "stars": 993,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:29.946Z"
@@ -618,11 +618,11 @@
                 "id": 19897878,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T02:26:11Z",
-                "open_issues": 138,
+                "last_commit": "2026-10-06T12:39:03Z",
+                "open_issues": 137,
                 "owner": "itzg",
                 "repo": "docker-minecraft-server",
-                "stars": 14386,
+                "stars": 14387,
                 "topics": [
                   "docker-image",
                   "dockerfiles",
@@ -979,10 +979,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-05T06:54:01Z",
-                "open_issues": 504,
+                "open_issues": 510,
                 "owner": "HMCL-dev",
                 "repo": "HMCL",
-                "stars": 10185,
+                "stars": 10187,
                 "topics": [
                   "javafx",
                   "minecraft",
@@ -1029,11 +1029,11 @@
                 "id": 95660324,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T10:54:43Z",
+                "last_commit": "2026-10-06T10:59:32Z",
                 "open_issues": 60,
                 "owner": "Voxelum",
                 "repo": "x-minecraft-launcher",
-                "stars": 1633,
+                "stars": 1634,
                 "topics": [
                   "curseforge",
                   "custom-minecraft-launcher",
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:57:43.574Z",
+    "last_updated": "2026-10-06T15:24:50.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 The curated list of awesome things related to Minecraft.",
