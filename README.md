@@ -72,7 +72,7 @@
 
 ## Mod Loaders
 
-* [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) ⭐ 7,844 | 🐛 181 | 🌐 Java | 📅 2026-10-21 - Modifications to the Minecraft base files to assist in compatibility between mods.
+* [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) ⭐ 7,843 | 🐛 181 | 🌐 Java | 📅 2026-10-21 - Modifications to the Minecraft base files to assist in compatibility between mods.
 * [Meddle](https://github.com/FyberOptic/Meddle) ⭐ 31 | 🐛 1 | 🌐 Java | 📅 2016-05-30 - Everything related to modding 1.9/1.10 snapshots in one place.
 * [RopeMC](https://github.com/RopeMC/RopeMC) ⚠️ Archived - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
 * [Quilt](https://quiltmc.org/) - A powerful fork of the Fabric project.
@@ -84,7 +84,7 @@
 
 ### Performance
 
-* [Sodium (for Fabric)](https://github.com/CaffeineMC/sodium-fabric) ⭐ 5,838 | 🐛 166 | 🌐 Java | 📅 2026-10-18 - A Fabric mod designed to improve frame rates and reduce micro-stutter.
+* [Sodium (for Fabric)](https://github.com/CaffeineMC/sodium-fabric) ⭐ 5,837 | 🐛 169 | 🌐 Java | 📅 2026-10-18 - A Fabric mod designed to improve frame rates and reduce micro-stutter.
 * [Optifine](https://www.optifine.net/home) - OptiFine is a Minecraft optimization mod.
 * [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) - BetterFps is a Minecraft mod that add a few performance improvements.
 * [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - A Fabric mod to allow Optifine to run using Fabric loader.
@@ -107,8 +107,8 @@
 
 ### Technology
 
-* [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) ⭐ 1,816 | 🐛 446 | 🌐 Java | 📅 2026-10-28 - A Minecraft Mod about Matter, Energy and using them to conquer the world. Mainly focused on item storage.
-* [Botania](https://github.com/Vazkii/Botania) ⭐ 1,478 | 🐛 93 | 🌐 Java | 📅 2026-10-26 - Botania is a tech mod in essence. The theme is natural magic.
+* [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) ⭐ 1,818 | 🐛 442 | 🌐 Java | 📅 2026-10-29 - A Minecraft Mod about Matter, Energy and using them to conquer the world. Mainly focused on item storage.
+* [Botania](https://github.com/Vazkii/Botania) ⭐ 1,479 | 🐛 93 | 🌐 Java | 📅 2026-10-26 - Botania is a tech mod in essence. The theme is natural magic.
 * [Railcraft](https://github.com/Railcraft/Railcraft) ⭐ 527 | 🐛 170 | 🌐 Java | 📅 2023-09-20 - Greatly expand and improve the Minecart system in Minecraft.
 * [Tinkers Construct](https://minecraft.curseforge.com/projects/tinkers-construct) - Tinkers' Construct is a mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else.
 * [Immersive Engineering](https://minecraft.curseforge.com/projects/immersive-engineering) - Immersive Engineering is a tech mod with a certain charm, based on the ideas and concepts, and with most assets created by Damien Hazard.
@@ -130,7 +130,7 @@
 
 ### Energy
 
-* [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) ⭐ 1,816 | 🐛 446 | 🌐 Java | 📅 2026-10-28 - A Minecraft Mod about Matter, Energy and using them to conquer the world.
+* [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) ⭐ 1,818 | 🐛 442 | 🌐 Java | 📅 2026-10-29 - A Minecraft Mod about Matter, Energy and using them to conquer the world.
 * [RFTools](https://minecraft.curseforge.com/projects/rftools) - RFTools is a mod containing various tools that are related to RF (Redflux) or technology in general.
 * [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors) - Adds nuclear reactors with the fictional fuel 'yellorium'. A carry on of the original Big Reactors.
 * [Zetta Industries](https://www.curseforge.com/minecraft/mc-mods/zetta-industries) - A mod which adds the main multiblock of a big battery.
@@ -168,15 +168,15 @@
 
 ### Building
 
-* [WorldEdit](https://github.com/EngineHub/WorldEdit) ⭐ 3,534 | 🐛 181 | 🌐 Java | 📅 2026-10-27 - WorldEdit is an open source in-game map editor available for Bukkit, Forge, MinecraftEdu, and many other platforms.
+* [WorldEdit](https://github.com/EngineHub/WorldEdit) ⭐ 3,534 | 🐛 178 | 🌐 Java | 📅 2026-10-29 - WorldEdit is an open source in-game map editor available for Bukkit, Forge, MinecraftEdu, and many other platforms.
 * [Carpenter's Blocks](https://www.curseforge.com/minecraft/mc-mods/carpenters-blocks) - This mod adds new blocks such as slants and corners which can be made to look like any other block in the game! Extremely useful for artistic builds. (For 1.12+ see BlockCraftery)
 * [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) - This mod adds multiple new textures to lots of blocks in the game, adding a wide variety of textures. (For editing units smaller than blocks see Chisel and Bits.)
 * [FAWE](https://intellectualsites.github.io/download/fawe.html) - Stands for Fast Async WorldEdit. Based upon WorldEdit, it is simply faster, and adds lots more tools (i.e. brushes) to work with.
 
 ## Server Plugins
 
-* [ViaVersion](https://github.com/MylesIsCool/ViaVersion) ⭐ 1,650 | 🐛 75 | 🌐 Java | 📅 2026-10-27 - Allows the connection of newer clients to older server versions for Minecraft servers.
-* [CoreProtect](https://github.com/PlayPro/CoreProtect) ⭐ 1,004 | 🐛 110 | 🌐 Java | 📅 2026-10-19 - Log everything your players do. Literally 1984.
+* [ViaVersion](https://github.com/MylesIsCool/ViaVersion) ⭐ 1,650 | 🐛 75 | 🌐 Java | 📅 2026-10-29 - Allows the connection of newer clients to older server versions for Minecraft servers.
+* [CoreProtect](https://github.com/PlayPro/CoreProtect) ⭐ 1,004 | 🐛 112 | 🌐 Java | 📅 2026-10-19 - Log everything your players do. Literally 1984.
 * [WorldGuard](https://github.com/EngineHub/WorldGuard) ⭐ 942 | 🐛 162 | 🌐 Java | 📅 2026-10-22 - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
 * [CraftBook](https://github.com/EngineHub/CraftBook) ⭐ 322 | 🐛 87 | 🌐 Java | 📅 2026-10-18 - CraftBook lets you create magically extending bridges, compact Redstone circuits, complex Minecart mechanics, and much more — all without a client mod and fully customizable by the server.
 * [AntiCheatReloaded](https://github.com/Rammelkast/AntiCheatReloaded) ⭐ 110 | 🐛 0 | 🌐 Java | 📅 2025-01-13 - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players.
@@ -212,8 +212,8 @@
 
 ### Servers
 
-* [Docker-Minecraft](https://github.com/itzg/docker-minecraft-server) ⭐ 14,492 | 🐛 136 | 🌐 Shell | 📅 2026-10-28 - A self-hosted Minecraft server using Docker containers.
-* [Gate](https://github.com/minekube/gate) ⭐ 1,083 | 🐛 59 | 🌐 Go | 📅 2026-10-28 - A high performance & paralleled Minecraft proxy written in Go.
+* [Docker-Minecraft](https://github.com/itzg/docker-minecraft-server) ⭐ 14,493 | 🐛 135 | 🌐 Shell | 📅 2026-10-29 - A self-hosted Minecraft server using Docker containers.
+* [Gate](https://github.com/minekube/gate) ⭐ 1,083 | 🐛 59 | 🌐 Go | 📅 2026-10-29 - A high performance & paralleled Minecraft proxy written in Go.
 * [Legendary-Java-Minecraft-Geyser-Floodgate](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) ⭐ 225 | 🐛 1 | 🌐 Shell | 📅 2026-05-03 - PaperMC server with out of the box Geyser and Floodgate support using docker.
 * [minecraft-docker](https://github.com/tywil04/minecraft-docker) ⚠️ Archived - Fork of [Legendary-Java-Minecraft-Geyser-Floodgate](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) ⭐ 225 | 🐛 1 | 🌐 Shell | 📅 2026-05-03 that embeds a discord bot for easy starting and stopping of the server.
 * [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/) - Formerly known as MCPC+. The original server implementing the Forge and Bukkit API.
@@ -244,10 +244,10 @@
 
 ### Launchers
 
-* [HMCL](https://github.com/huanghongxun/HMCL) ⭐ 10,790 | 🐛 507 | 🌐 Java | 📅 2026-10-28 - A powered Minecraft launcher that supports a lot of features.
-* [MultiMC](https://github.com/MultiMC/MultiMC5) ⭐ 4,685 | 🐛 324 | 🌐 C++ | 📅 2026-10-25 - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
-* [XMCL](https://github.com/Voxelum/x-minecraft-launcher) ⭐ 1,677 | 🐛 69 | 🌐 TypeScript | 📅 2026-10-28 - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
-* [Polymerium](https://github.com/d3ara1n/Polymerium) ⭐ 124 | 🐛 1 | 🌐 C# | 📅 2026-10-25 - 🐿️ A next-generation Minecraft instance manager that thinks differently about game management.
+* [HMCL](https://github.com/huanghongxun/HMCL) ⭐ 10,808 | 🐛 515 | 🌐 Java | 📅 2026-10-29 - A powered Minecraft launcher that supports a lot of features.
+* [MultiMC](https://github.com/MultiMC/MultiMC5) ⭐ 4,687 | 🐛 323 | 🌐 C++ | 📅 2026-10-28 - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+* [XMCL](https://github.com/Voxelum/x-minecraft-launcher) ⭐ 1,676 | 🐛 68 | 🌐 TypeScript | 📅 2026-10-28 - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
+* [Polymerium](https://github.com/d3ara1n/Polymerium) ⭐ 124 | 🐛 0 | 🌐 C# | 📅 2026-10-25 - 🐿️ A next-generation Minecraft instance manager that thinks differently about game management.
 * [Prism](https://prismlauncher.org) - A fork of MultiMC, capable of downloading modpacks and other resources directly from CurseForge and FTB.
 
 ## Development
@@ -265,4 +265,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
