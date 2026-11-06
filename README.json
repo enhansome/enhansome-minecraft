@@ -100,10 +100,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-01T16:12:23Z",
-                "open_issues": 171,
+                "open_issues": 170,
                 "owner": "CaffeineMC",
                 "repo": "sodium",
-                "stars": 5848,
+                "stars": 5844,
                 "topics": [
                   "fabric",
                   "minecraft",
@@ -135,7 +135,7 @@
                 "open_issues": 46,
                 "owner": "xfl03",
                 "repo": "MCCustomSkinLoader",
-                "stars": 613,
+                "stars": 612,
                 "topics": [
                   "fabric",
                   "forge",
@@ -191,7 +191,7 @@
                 "open_issues": 444,
                 "owner": "AppliedEnergistics",
                 "repo": "Applied-Energistics-2",
-                "stars": 1828,
+                "stars": 1829,
                 "topics": [
                   "applied-energistics",
                   "appliedenergistics",
@@ -218,7 +218,7 @@
                 "id": 15870488,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-01T15:08:02Z",
+                "last_commit": "2026-11-05T18:17:51Z",
                 "open_issues": 91,
                 "owner": "VazkiiMods",
                 "repo": "Botania",
@@ -285,7 +285,7 @@
                 "open_issues": 444,
                 "owner": "AppliedEnergistics",
                 "repo": "Applied-Energistics-2",
-                "stars": 1828,
+                "stars": 1829,
                 "topics": [
                   "applied-energistics",
                   "appliedenergistics",
@@ -352,11 +352,11 @@
                 "id": 944926,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T09:20:54Z",
-                "open_issues": 173,
+                "last_commit": "2026-11-06T11:16:27Z",
+                "open_issues": 172,
                 "owner": "EngineHub",
                 "repo": "WorldEdit",
-                "stars": 3536,
+                "stars": 3535,
                 "topics": [
                   "bukkit",
                   "forge",
@@ -394,11 +394,11 @@
             "id": 52748444,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-01T10:22:21Z",
+            "last_commit": "2026-11-06T13:09:32Z",
             "open_issues": 76,
             "owner": "ViaVersion",
             "repo": "ViaVersion",
-            "stars": 1653,
+            "stars": 1652,
             "topics": [
               "bukkit",
               "bungeecord",
@@ -431,10 +431,10 @@
             "language": "Java",
             "license": "Artistic-2.0",
             "last_commit": "2026-10-19T18:10:24Z",
-            "open_issues": 114,
+            "open_issues": 116,
             "owner": "PlayPro",
             "repo": "CoreProtect",
-            "stars": 1006,
+            "stars": 1005,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:29.946Z"
@@ -590,7 +590,7 @@
             "open_issues": 28,
             "owner": "bs-community",
             "repo": "blessing-skin-server",
-            "stars": 1066,
+            "stars": 1065,
             "topics": [
               "laravel",
               "minecraft"
@@ -618,8 +618,8 @@
                 "id": 19897878,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T03:08:46Z",
-                "open_issues": 137,
+                "last_commit": "2026-11-06T13:16:30Z",
+                "open_issues": 136,
                 "owner": "itzg",
                 "repo": "docker-minecraft-server",
                 "stars": 14518,
@@ -645,7 +645,7 @@
                 "id": 284546536,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T10:06:25Z",
+                "last_commit": "2026-11-06T13:27:06Z",
                 "open_issues": 62,
                 "owner": "minekube",
                 "repo": "gate",
@@ -786,7 +786,7 @@
                 "open_issues": 15,
                 "owner": "GeyserMC",
                 "repo": "MCProtocolLib",
-                "stars": 910,
+                "stars": 909,
                 "topics": [
                   "java",
                   "library",
@@ -813,7 +813,7 @@
                 "open_issues": 3,
                 "owner": "Zerite",
                 "repo": "CraftLib",
-                "stars": 104,
+                "stars": 103,
                 "topics": [
                   "craftlib",
                   "java",
@@ -881,7 +881,7 @@
                 "open_issues": 268,
                 "owner": "toolbox4minecraft",
                 "repo": "amidst",
-                "stars": 2268,
+                "stars": 2267,
                 "topics": [
                   "minecraft"
                 ]
@@ -904,7 +904,7 @@
                 "open_issues": 191,
                 "owner": "Amulet-Team",
                 "repo": "Amulet-Map-Editor",
-                "stars": 2255,
+                "stars": 2256,
                 "topics": [
                   "3rd-party",
                   "amulet",
@@ -978,11 +978,11 @@
                 "id": 37844001,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T13:49:12Z",
-                "open_issues": 526,
+                "last_commit": "2026-11-06T14:07:06Z",
+                "open_issues": 518,
                 "owner": "HMCL-dev",
                 "repo": "HMCL",
-                "stars": 10903,
+                "stars": 10907,
                 "topics": [
                   "javafx",
                   "minecraft",
@@ -1003,11 +1003,11 @@
                 "id": 12682212,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-05T00:02:17Z",
-                "open_issues": 323,
+                "last_commit": "2026-11-06T11:56:58Z",
+                "open_issues": 322,
                 "owner": "MultiMC",
                 "repo": "Launcher",
-                "stars": 4691,
+                "stars": 4690,
                 "topics": [
                   "c-plus-plus",
                   "launcher",
@@ -1030,10 +1030,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-03T03:45:40Z",
-                "open_issues": 52,
+                "open_issues": 50,
                 "owner": "Voxelum",
                 "repo": "x-minecraft-launcher",
-                "stars": 1695,
+                "stars": 1699,
                 "topics": [
                   "curseforge",
                   "custom-minecraft-launcher",
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T16:44:00.964Z",
+    "last_updated": "2026-11-06T16:12:06.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 The curated list of awesome things related to Minecraft.",
@@ -1165,7 +1165,7 @@
       "open_issues": 36,
       "owner": "bs-community",
       "repo": "awesome-minecraft",
-      "stars": 662,
+      "stars": 661,
       "topics": [
         "awesome",
         "awesome-list",
